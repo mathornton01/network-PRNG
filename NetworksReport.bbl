@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+
+\bibitem{Dut09}
+Dutang Christophe and Diethelm Wuertz.
+\newblock A note on random number generation.
+\newblock In {\em Overview of Random Generation Algorithims}, pages 1--29,
+  2009.
+
+\bibitem{Ell85}
+R.~S. Ellis.
+\newblock Entropy large deviations and statistical mechanics.
+\newblock New York NY, 1985. Springer.
+
+\bibitem{Eve14}
+Adam~Everspaugh et. al.
+\newblock Not so random numbers in virtualized linux and the whirlwind rng.
+\newblock In {\em Security and Privacy (SP)}, 2014.
+
+\bibitem{Fer13}
+Fenandes Diogo~AB et. al.
+\newblock Randomness in virtual machines.
+\newblock In {\em Proceedings of the 2013 IEEE/ACM 6th International Conference
+  on Utility and Cloud Computing}, 2013.
+
+\bibitem{Wal16}
+Kyle~Wallace et. al.
+\newblock Toward sensor-based random number generation for mobile and iot
+  devices.
+\newblock In {\em IEEE Internet of Things Journal}, 2016.
+
+\bibitem{Gut06}
+Zvi Gutterman, Benny Pinkas, and Tzachy Reinman.
+\newblock Analysis of the linux random number generator.
+\newblock In {\em Security and Privacy, 2006 IEEE Symposium on}, pages 15--pp.
+  IEEE, 2006.
+
+\bibitem{Mul13}
+S~Muller.
+\newblock Cpu time jitter based non-physical true random number generator.
+\newblock {\em DOI= http://www. chronox. de/jent/doc/CPU-Jitter-NPTRNG. html},
+  2013.
+
+\bibitem{Vie03}
+John Viega.
+\newblock Practical random number generation in software.
+\newblock In {\em Computer Security Applications Conference, 2003. Proceedings.
+  19th Annual}, pages 129--140. IEEE, 2003.
+
+\bibitem{Vui12}
+Thibaut Vuillemin, Fran{\c{c}}ois Goichon, C{\'e}dric Lauradoux, and Guillaume
+  Salagnac.
+\newblock Entropy transfers in the linux random number generator.
+\newblock {\em hal-00738638, version}, pages 1--4, 2012.
+
+\end{thebibliography}
