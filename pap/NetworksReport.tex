@@ -335,7 +335,9 @@ p-val $<$ 1\% & Almost certainly not random.\\
 
 The next parameter reported by ent is the arithmetic mean of the data, depending on whether you specify byte or bit mode in ent, this will produce an average of the binary numbers encoded in a single byte (0-255) or, simply the bits present in the file. It is calculated simply by summing every value, and dividing by the number of values present. We could further use the calculated mean as a test-statistic in a student's t-test, however it is sufficient to simply compare to the ideal means 0.5, and 127.5 for bits and bytes respectively.
 
-In another test, the ent suite reports the monte-carlo simulation value for pi. In the monte Carlo simulation for pi, the value of pi is approximated using a technique whereby a circle is inscribed into a square, such that pi can be calculated as a ratio of the area inside the square and outside the circle, to the area inside the circle. Then taking advantage of the fact that if the points calculated are truly random, then they should fall in a fairly unifrom way on the image (once scaled), such that the ratio of points outside the circle to the ratio on the inside allows us to gain an approximation of pi. 
+In another test, the ent suite reports the monte-carlo simulation value for pi. In the monte Carlo simulation for pi, the value of pi is approximated using a technique whereby a circle is inscribed into a square, such that pi can be calculated as a ratio of the area inside the square and outside the circle, to the area inside the circle. Then taking advantage of the fact that if the points calculated are truly random, then they should fall in a fairly unifrom way on the image (once scaled), such that the ratio of points outside the circle to the ratio on the inside allows us to gain an approximation of pi.
+
+The Serial Correlation of a value is the last of the statistics that are reported on by ENT. ENT reports this value suing an algorithm that was printed in Pseudo-Numerical Algorithms by Donald Knuth. [CITATION NEEDED] The algorithm is dependent on the ordering of numbers, it takes 
 
 
 
