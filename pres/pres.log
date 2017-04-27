@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.17)  25 APR 2017 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.17)  26 APR 2017 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,7 +827,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 10.
  (./pres.nav)
-Overfull \hbox (10.92209pt too wide) in paragraph at lines 10--10
+Overfull \hbox (9.15123pt too wide) in paragraph at lines 10--10
  [][][][]  
  []
 
@@ -836,21 +836,21 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 14.
 
 
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ] (./pres.toc)
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [2
 
 ] (./pres.toc)
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
@@ -859,148 +859,284 @@ Overfull \hbox (10.92209pt too wide) has occurred while \output is active
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <6> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 46.
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 47.
 
-<images/ufdie.jpg, id=217, 361.35pt x 181.67876pt>
+<images/ufdie.jpg, id=218, 361.35pt x 181.67876pt>
 File: images/ufdie.jpg Graphic file (type jpg)
  <use images/ufdie.jpg>
-Package pdftex.def Info: images/ufdie.jpg used on input line 46.
+Package pdftex.def Info: images/ufdie.jpg used on input line 47.
 (pdftex.def)             Requested size: 162.60599pt x 81.75467pt.
 
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [4
 
- <./images/ufdie.jpg>]
-<images/random-def.png, id=254, 350.81062pt x 438.13687pt>
-File: images/random-def.png Graphic file (type png)
+ <./images/ufdie.jpg>] <images/PKC.png, id=256, 1128.215pt x 197.73875pt>
+File: images/PKC.png Graphic file (type png)
 
-<use images/random-def.png>
-Package pdftex.def Info: images/random-def.png used on input line 63.
-(pdftex.def)             Requested size: 175.40488pt x 219.06789pt.
+<use images/PKC.png>
+Package pdftex.def Info: images/PKC.png used on input line 78.
+(pdftex.def)             Requested size: 282.05305pt x 49.43456pt.
 
-Overfull \hbox (21.75995pt too wide) in paragraph at lines 63--63
-[][]  
- []
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 63.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 63.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [5
 
- <./images/random-def.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ <./images/PKC.png>] <images/ven.jpeg, id=291, 501.875pt x 341.275pt>
+File: images/ven.jpeg Graphic file (type jpg)
 
+<use images/ven.jpeg>
+Package pdftex.def Info: images/ven.jpeg used on input line 104.
+(pdftex.def)             Requested size: 125.46843pt x 85.31853pt.
 
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [6
 
-]
-Overfull \vbox (12.0pt too high) has occurred while \output is active []
+ <./images/ven.jpeg>] <images/lag.jpg, id=323, 552.0625pt x 702.625pt>
+File: images/lag.jpg Graphic file (type jpg)
 
-
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+<use images/lag.jpg>
+Package pdftex.def Info: images/lag.jpg used on input line 135.
+(pdftex.def)             Requested size: 138.01527pt x 175.6558pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 135.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 135.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[7] (./pres.toc)
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+[7
+
+ <./images/lag.jpg>] <images/entext.png, id=356, 1066.98625pt x 153.57375pt>
+File: images/entext.png Graphic file (type png)
+
+<use images/entext.png>
+Package pdftex.def Info: images/entext.png used on input line 159.
+(pdftex.def)             Requested size: 266.74591pt x 38.39334pt.
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [8
 
-]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+ <./images/entext.png>] (./pres.toc)
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [9
 
 ]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [10
 
-]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+] <images/entext2.png, id=471, 1066.98625pt x 153.57375pt>
+File: images/entext2.png Graphic file (type png)
+
+<use images/entext2.png>
+Package pdftex.def Info: images/entext2.png used on input line 208.
+(pdftex.def)             Requested size: 266.74591pt x 38.39334pt.
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [11
 
-] (./pres.toc)
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+ <./images/entext2.png>]
+Overfull \vbox (7.71945pt too high) detected at line 216
+ []
+
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [12
 
 ]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [13
 
 ]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [14
 
-]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+] (./pres.toc)
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [15
 
-] (./pres.toc)
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+] <images/Neha2.png, id=649, 481.8pt x 481.8pt>
+File: images/Neha2.png Graphic file (type png)
+ <use images/Neha2.png>
+Package pdftex.def Info: images/Neha2.png used on input line 275.
+(pdftex.def)             Requested size: 105.99632pt x 105.99632pt.
+
+<images/Zeng2.png, id=650, 481.8pt x 481.8pt>
+File: images/Zeng2.png Graphic file (type png)
+ <use images/Zeng2.png>
+Package pdftex.def Info: images/Zeng2.png used on input line 275.
+(pdftex.def)             Requested size: 105.99632pt x 105.99632pt.
+
+<images/Micah2.png, id=651, 481.8pt x 481.8pt>
+File: images/Micah2.png Graphic file (type png)
+ <use images/Micah2.png>
+Package pdftex.def Info: images/Micah2.png used on input line 275.
+(pdftex.def)             Requested size: 105.99632pt x 105.99632pt.
+
+Overfull \hbox (10.6991pt too wide) in paragraph at lines 275--275
+ [][][][] 
+ []
+
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [16
 
-]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+ <./images/Neha2.png (PNG copy)> <./images/Zeng2.png (PNG copy)> <./images/Mica
+h2.png (PNG copy)>] <images/pet.png, id=684, 942.52126pt x 387.69844pt>
+File: images/pet.png Graphic file (type png)
+
+<use images/pet.png>
+Package pdftex.def Info: images/pet.png used on input line 283.
+(pdftex.def)             Requested size: 311.03297pt x 127.94087pt.
+
+Overfull \hbox (3.7431pt too wide) in paragraph at lines 283--283
+ [][] 
+ []
+
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [17
 
-]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+ <./images/pet.png (PNG copy)>]
+<images/ibh.png, id=717, 343.2825pt x 313.9228pt>
+File: images/ibh.png Graphic file (type png)
+ <use images/ibh.png>
+Package pdftex.def Info: images/ibh.png used on input line 302.
+(pdftex.def)             Requested size: 147.60858pt x 134.98416pt.
+
+<images/iah.png, id=718, 290.58563pt x 266.49562pt>
+File: images/iah.png Graphic file (type png)
+ <use images/iah.png>
+Package pdftex.def Info: images/iah.png used on input line 302.
+(pdftex.def)             Requested size: 145.29245pt x 133.24748pt.
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [18
 
-]
-Overfull \hbox (10.92209pt too wide) has occurred while \output is active
+ <./images/ibh.png (PNG copy)> <./images/iah.png (PNG copy)>]
+<images/bbh.png, id=750, 498.36188pt x 456.20438pt>
+File: images/bbh.png Graphic file (type png)
+ <use images/bbh.png>
+Package pdftex.def Info: images/bbh.png used on input line 320.
+(pdftex.def)             Requested size: 159.47905pt x 145.98837pt.
+
+Overfull \hbox (5.83412pt too wide) in paragraph at lines 320--320
+ [][] 
+ []
+
+<images/bah.png, id=751, 414.04688pt x 377.91188pt>
+File: images/bah.png Graphic file (type png)
+ <use images/bah.png>
+Package pdftex.def Info: images/bah.png used on input line 320.
+(pdftex.def)             Requested size: 161.47762pt x 147.38503pt.
+
+Overfull \hbox (7.83269pt too wide) in paragraph at lines 320--320
+ [][] 
+ []
+
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [19
+
+ <./images/bbh.png (PNG copy)> <./images/bah.png (PNG copy)>] (./pres.toc)
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[20
+
+] <images/pi.png, id=828, 395.22656pt x 113.67468pt>
+File: images/pi.png Graphic file (type png)
+ <use images/pi.png>
+Package pdftex.def Info: images/pi.png used on input line 341.
+(pdftex.def)             Requested size: 197.6128pt x 56.83719pt.
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[21
+
+ <./images/pi.png (PNG copy)>]
+<images/nist.png, id=860, 332.24126pt x 152.57pt>
+File: images/nist.png Graphic file (type png)
+ <use images/nist.png>
+Package pdftex.def Info: images/nist.png used on input line 358.
+(pdftex.def)             Requested size: 166.12021pt x 76.2848pt.
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[22
+
+ <./images/nist.png>] <images/crj3.jpg, id=894, 495.2904pt x 394.1124pt>
+File: images/crj3.jpg Graphic file (type jpg)
+
+<use images/crj3.jpg>
+Package pdftex.def Info: images/crj3.jpg used on input line 367.
+(pdftex.def)             Requested size: 173.35423pt x 137.94139pt.
+
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[23
+
+ <./images/crj3.jpg>]
+Overfull \hbox (9.15123pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[24
 
 ]
 \tf@nav=\write6
@@ -1012,13 +1148,13 @@ Overfull \hbox (10.92209pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `pres.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
  (./pres.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
 Package rerunfilecheck Info: File `pres.out' has not changed.
-(rerunfilecheck)             Checksum: 4D263991649FB73B06EC634492DAACB5;789.
+(rerunfilecheck)             Checksum: DBC65E762E7F5ACD48C4A5E9DB54EE35;800.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1026,22 +1162,32 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 17137 strings out of 494902
- 327746 string characters out of 6179891
- 394174 words of memory out of 5000000
- 19981 multiletter control sequences out of 15000+600000
- 10853 words of font info for 40 fonts, out of 8000000 for 9000
+ 17301 strings out of 494902
+ 331040 string characters out of 6179891
+ 397171 words of memory out of 5000000
+ 20117 multiletter control sequences out of 15000+600000
+ 12749 words of font info for 47 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 48i,19n,63p,787b,631s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,19n,63p,1123b,736s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on pres.pdf (19 pages, 287599 bytes).
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi
+8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on pres.pdf (24 pages, 1417467 bytes).
 PDF statistics:
- 800 PDF objects out of 1000 (max. 8388607)
- 744 compressed objects within 8 object streams
- 51 named destinations out of 1000 (max. 500000)
- 203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1026 PDF objects out of 1200 (max. 8388607)
+ 935 compressed objects within 10 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 284 words of extra memory for PDF output out of 10000 (max. 10000000)
 
